@@ -4,6 +4,7 @@
 
 <b><a href="https://hyperskill.org/learn/step/15860">Paradigms</a></b>
 <b><a href="https://hyperskill.org/learn/step/8742">Computational thinking</a></b>
+<b><a href="https://hyperskill.org/learn/step/8745">Components of computational thinking</a></b>
 
 
 </ol>
