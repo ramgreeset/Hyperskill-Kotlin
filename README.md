@@ -17,7 +17,7 @@
 §2. Binary subtraction</br></br>
 
 <li><b><a href="https://hyperskill.org/learn/step/15860">Paradigms</a></b></li>
-<a href="">Timur Shemsedinov lecture on Programming paradigms</a>
+<a href="">Timur Shemsedinov lecture on Programming paradigms</a></br></br>
 
 <li><b><a href="https://hyperskill.org/learn/step/8745">Сomputational thinking</a></b></li>
 §1. Decomposition</br>
