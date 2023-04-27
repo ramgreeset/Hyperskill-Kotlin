@@ -28,3 +28,6 @@
 <li><b><a href="https://hyperskill.org/learn/step/5984">Recursion basics</a></b></li>
 <a href="https://www.youtube.com/watch?v=NOaSY5pJmyc">Timofey Khiryanov lecture on recursion</a>
 
+<li><b><a href="https://hyperskill.org/learn/step/9640">Interfaces</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/9640">Inheritance</a></b></li>
+
