@@ -17,7 +17,7 @@
 §2. Binary subtraction</br></br>
 
 <li><b><a href="https://hyperskill.org/learn/step/15860">Paradigms</a></b></li>
-<a href="">Timur Shemsedinov lecture on Programming paradigms</a></br></br>
+<a href="https://www.youtube.com/watch?v=Yk1sxLVHfjs">Timur Shemsedinov lecture on Programming paradigms</a></br></br>
 
 <li><b><a href="https://hyperskill.org/learn/step/8745">Сomputational thinking</a></b></li>
 §1. Decomposition</br>
@@ -26,8 +26,12 @@
 §4. Evaluation</br></br>
 
 <li><b><a href="https://hyperskill.org/learn/step/5984">Recursion basics</a></b></li>
-<a href="https://www.youtube.com/watch?v=NOaSY5pJmyc">Timofey Khiryanov lecture on recursion</a>
+<a href="https://www.youtube.com/watch?v=NOaSY5pJmyc">Timofey Khiryanov lecture on recursion</a></br>
+<a href="https://www.youtube.com/watch?v=W2skCjIgVKE">Timur Shemsedinov lecture on recursion</a></br></br>
 
+<li><b><a href="https://hyperskill.org/learn/step/3614">Introduction to OOP</a></b></li>
+<a href="https://www.youtube.com/watch?v=r4ReQlVtfgQ&list=PLHhi8ymDMrQZ5bHGEftKvqdScBhtMUGke">Timur Shemsedinov lecture on OOP</a></br></br>
 <li><b><a href="https://hyperskill.org/learn/step/9640">Interfaces</a></b></li>
-<li><b><a href="https://hyperskill.org/learn/step/9640">Inheritance</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/9844">Inheritance</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/10027">Polymorphism</a></b></li>
 
