@@ -32,8 +32,12 @@
 <li><b><a href="https://hyperskill.org/learn/step/3614">Introduction to OOP</a></b></li>
 <a href="https://www.youtube.com/watch?v=r4ReQlVtfgQ&list=PLHhi8ymDMrQZ5bHGEftKvqdScBhtMUGke">Timur Shemsedinov lecture on OOP</a></br>
 <a href="https://www.youtube.com/watch?v=9GdtWiovvIQ">Sergey Nemchinsky lecture on OOP</a></br></br>
+
 <li><b><a href="https://hyperskill.org/learn/step/9640">Interfaces</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/9844">Inheritance</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/10027">Polymorphism</a></b></li>
-<li><b><a href="https://hyperskill.org/learn/step/8519">Encapsulation</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/8519">Encapsulation</a></b></li></br>
+
+<li><b><a href="https://hyperskill.org/learn/step/7899">Unicode</a></b></li></br>
+<li><b><a href="https://hyperskill.org/learn/step/6854">JSON</a></b></li>
 
