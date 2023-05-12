@@ -1,5 +1,5 @@
 <ol>
-
+<h3>Fundamentals</h3>
 <li><b><a href="https://hyperskill.org/learn/step/5544">Binary numbers</a></b></li>
 §1. Decimal vs Binary</br>
 §2. Binary counting</br>
@@ -42,4 +42,5 @@
 <li><b><a href="https://hyperskill.org/learn/step/6854">JSON</a></b></li></br>
 <li><b><a href="https://hyperskill.org/learn/step/19467">Date and time standards</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/18003">Computer Memory</a></b></li></br>
+<h3>Kotlin</h3>
 
