@@ -42,5 +42,14 @@
 <li><b><a href="https://hyperskill.org/learn/step/6854">JSON</a></b></li></br>
 <li><b><a href="https://hyperskill.org/learn/step/19467">Date and time standards</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/18003">Computer Memory</a></b></li></br>
+
 <h3>Kotlin</h3>
+
+<li><b><a href="https://hyperskill.org/learn/step/4419">Coding style conventions</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/4389">Naming variables</a></b></li></br>
+
+<li><b><a href="https://hyperskill.org/learn/step/4425">Standard output</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/4445">Standard input with Java Scanner</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/11224">Reading data with a readln</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/21438">String formatting</a></b></li>
 
