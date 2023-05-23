@@ -43,6 +43,7 @@
 <li><b><a href="https://hyperskill.org/learn/step/13025">Files</a></b></li></br>
 <li><b><a href="https://hyperskill.org/learn/step/19467">Date and time standards</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/18003">Computer Memory</a></b></li></br>
+<li><b><a href="https://hyperskill.org/learn/step/18049">Components of computer memory</a></b></li></br>
 
 <h3>Kotlin</h3>
 
