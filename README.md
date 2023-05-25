@@ -45,6 +45,14 @@
 <li><b><a href="https://hyperskill.org/learn/step/18003">Computer Memory</a></b></li></br>
 <li><b><a href="https://hyperskill.org/learn/step/18049">Components of computer memory</a></b></li></br>
 <li><b><a href="https://hyperskill.org/learn/step/21577">Stack and heap memory</a></b></li></br>
+<li><b><a href="https://hyperskill.org/learn/step/8504">Libraries</a></b></li></br>
+<li><b><a href="https://hyperskill.org/learn/step/6701">Frameworks</a></b></li></br>
+<li><b><a href="https://hyperskill.org/learn/step/5504">What is a bug</a></b></li></br>
+<li><b><a href="https://hyperskill.org/learn/step/13438">Functional testing</a></b></li></br>
+<li><b><a href="https://hyperskill.org/learn/step/7545">Unit testing</a></b></li></br>
+<li><b><a href="https://hyperskill.org/learn/step/12069">Documentation</a></b></li></br>
+<li><b><a href="https://hyperskill.org/learn/step/5538">Introduction to logging</a></b></li></br>
+<li><b><a href="https://hyperskill.org/learn/step/14368">Debugging overview</a></b></li></br>
 
 <h3>Kotlin</h3>
 
