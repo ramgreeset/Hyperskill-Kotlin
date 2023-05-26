@@ -41,18 +41,29 @@
 <li><b><a href="https://hyperskill.org/learn/step/7899">Unicode</a></b></li></br>
 <li><b><a href="https://hyperskill.org/learn/step/6854">JSON</a></b></li></br>
 <li><b><a href="https://hyperskill.org/learn/step/13025">Files</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/19467">Date and time standards</a></b></li>
-<li><b><a href="https://hyperskill.org/learn/step/18003">Computer Memory</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/18049">Components of computer memory</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/21577">Stack and heap memory</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/8504">Libraries</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/6701">Frameworks</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/5504">What is a bug</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/13438">Functional testing</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/7545">Unit testing</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/12069">Documentation</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/5538">Introduction to logging</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/14368">Debugging overview</a></b></li></br>
+<li><b><a href="https://hyperskill.org/learn/step/19467">Date and time standards</a></b></li></br>
+
+<h4>Memory management</h4>
+<li><b><a href="https://hyperskill.org/learn/step/18003">Computer Memory</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/18049">Components of computer memory</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/21577">Stack and heap memory</a></b></li>
+
+<h4>Software distribution</h4>
+<li><b><a href="https://hyperskill.org/learn/step/8504">Libraries</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/6701">Frameworks</a></b></li>
+
+<h4>Software quality</h4>
+<li><b><a href="https://hyperskill.org/learn/step/5504">What is a bug</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/13438">Functional testing</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/7545">Unit testing</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/12069">Documentation</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/5538">Introduction to logging</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/14368">Debugging overview</a></b></li>
+<li><b><a href="https://hyperskill.org/knowledge-map/516">Self-documenting code</a></b></li>
+
+<h4>Introduction to Design Principles and SOLID</h4>
+<li><b><a href="https://hyperskill.org/learn/step/8956">Design principles</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/8963">Single Responsibility Principle</a></b></li>
 
 <h3>Kotlin</h3>
 
