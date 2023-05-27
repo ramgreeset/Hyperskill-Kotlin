@@ -1,5 +1,5 @@
 <ol>
-<h3>Fundamentals</h3>
+<h2>Fundamentals</h2>
 <li><b><a href="https://hyperskill.org/learn/step/5544">Binary numbers</a></b></li>
 §1. Decimal vs Binary</br>
 §2. Binary counting</br>
@@ -74,7 +74,7 @@
 <li><b><a href="https://hyperskill.org/learn/step/16469">Singleton</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/3611">The concept of patterns</a></b></li>
 
-<h3>Kotlin</h3>
+<h2>Kotlin</h2>
 
 <li><b><a href="https://hyperskill.org/learn/step/4419">Coding style conventions</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4389">Naming variables</a></b></li></br>
