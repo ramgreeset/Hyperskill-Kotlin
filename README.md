@@ -63,7 +63,16 @@
 
 <h4>Introduction to Design Principles and SOLID</h4>
 <li><b><a href="https://hyperskill.org/learn/step/8956">Design principles</a></b></li>
-<li><b><a href="https://hyperskill.org/learn/step/8963">Single Responsibility Principle</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/8963">Single Responsibility Principle(SRP)</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/10089">Interface Segregation Principle(ISP)</a></b></li>
+
+<h4>Software architecture</h4>
+<li><b><a href="https://hyperskill.org/learn/step/15368">Introduction to software architecture</a></b></li>
+
+<h4>Design patterns</h4>
+<li><b><a href="https://hyperskill.org/learn/step/16251">Introduction to creational patterns</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/16469">Singleton</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/3611">The concept of patterns</a></b></li>
 
 <h3>Kotlin</h3>
 
