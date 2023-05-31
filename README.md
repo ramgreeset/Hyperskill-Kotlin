@@ -74,6 +74,13 @@
 <li><b><a href="https://hyperskill.org/learn/step/16469">Singleton</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/3611">The concept of patterns</a></b></li>
 
+<h4>Regular expressions</h4>
+<li><b><a href="https://hyperskill.org/learn/step/7580">Regexps basics</a></b></li>
+
+<h4>JVM basics</h4>
+<li><b><a href="https://hyperskill.org/learn/step/3739">Write, compile, and run</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/3499">JVM, JRE, and JDK</a></b></li>
+
 <h2>Kotlin</h2>
 
 <li><b><a href="https://hyperskill.org/learn/step/4419">Coding style conventions</a></b></li>
