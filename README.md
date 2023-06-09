@@ -77,9 +77,24 @@
 <h4>Regular expressions</h4>
 <li><b><a href="https://hyperskill.org/learn/step/7580">Regexps basics</a></b></li>
 
-<h4>JVM basics</h4>
+<h4>JVM</h4>
 <li><b><a href="https://hyperskill.org/learn/step/3739">Write, compile, and run</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/3499">JVM, JRE, and JDK</a></b></li>
+
+<h4>IDE</h4>
+<li><b><a href="https://hyperskill.org/learn/step/10996">IDE</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/5819">IntelliJ IDEA</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/5824">Navigation through code</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/5829">Writing code with pleasure</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/5834">Fixing code</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/5839">EduTools</a></b></li>
+
+<h4>Intro to build tools</h4>
+<li><b><a href="https://hyperskill.org/learn/step/4284">Build tools</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/4311">Java Archive</a></b></li>
+
+<h4>Gradle</h4>
+<li><b><a href="https://hyperskill.org/learn/step/5075">Gradle basics</a></b></li>
 
 <h2>Kotlin</h2>
 
