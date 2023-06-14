@@ -95,6 +95,7 @@
 
 <h4>Gradle</h4>
 <li><b><a href="https://hyperskill.org/learn/step/5075">Gradle basics</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/5077">Basic project with Gradle</a></b></li>
 
 <h2>Kotlin</h2>
 
