@@ -17,6 +17,14 @@
 §2. Binary subtraction</br></br>
 
 <li><b><a href="https://hyperskill.org/learn/step/15860">Paradigms</a></b></li>
+§1. Imperative paradigm</br>
+§2. Procedural programming paradigm</br>
+§3. Object-oriented programming</br>
+§4. Parallel processing approach</br>
+§5. Declarative paradigm</br>
+§6. Logic programming paradigm</br>
+§7. Functional programming paradigm</br>
+§8. Database programming paradigm</br>
 <a href="https://www.youtube.com/watch?v=Yk1sxLVHfjs">Timur Shemsedinov lecture on Programming paradigms</a></br></br>
 
 <li><b><a href="https://hyperskill.org/learn/step/8745">Сomputational thinking</a></b></li>
