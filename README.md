@@ -10,6 +10,7 @@
 
 <li><b><a href="https://hyperskill.org/learn/step/15860">Paradigms</a></b></li>
 23.07.23 |</br>
+<a href="https://onedrive.live.com/edit.aspx?resid=8F1F55C399D6FCF6!5104&app=Word&wdnd=1&wdPreviousSession=8df980cc%2Db955%2D47e5%2D9867%2D0f29dfbd045d&wdNewAndOpenCt=1690089129338&wdOrigin=wacFileNew&wdPreviousCorrelation=d3880958%2D89e4%2D44aa%2D8077%2D168dc96f4b25&wdTpl=blank">Конспект</a></br>
 <a href="https://www.youtube.com/watch?v=Yk1sxLVHfjs">Timur Shemsedinov lecture on Programming paradigms</a></br>
 
 <li><b><a href="https://hyperskill.org/learn/step/8745">Сomputational thinking</a></b></li>
