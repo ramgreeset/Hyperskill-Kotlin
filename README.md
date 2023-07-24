@@ -1,35 +1,33 @@
 <ol>
-<h2>Fundamentals</h2>
+<h2>Math</h2>
 <li><b><a href="https://hyperskill.org/learn/step/5544">Binary numbers</a></b></li>
-
 <li><b><a href="https://hyperskill.org/learn/step/8788">Hexadecimal numbers</a></b></li>
-
-
 <li><b><a href="https://hyperskill.org/learn/step/19917">Binary arithmetic</a></b></li>
-
-
+  
+<h2>Fundamentals</h2>
+<li><b><a href="https://hyperskill.org/learn/step/7899">Unicode</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/6854">JSON</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/15860">Paradigms</a></b></li>
 23.07.23 |</br>
 <a href="https://onedrive.live.com/edit.aspx?resid=8F1F55C399D6FCF6!5104&app=Word&wdnd=1&wdPreviousSession=8df980cc%2Db955%2D47e5%2D9867%2D0f29dfbd045d&wdNewAndOpenCt=1690089129338&wdOrigin=wacFileNew&wdPreviousCorrelation=d3880958%2D89e4%2D44aa%2D8077%2D168dc96f4b25&wdTpl=blank">Конспект</a></br>
 <a href="https://www.youtube.com/watch?v=Yk1sxLVHfjs">Timur Shemsedinov lecture on Programming paradigms</a></br>
 
-<li><b><a href="https://hyperskill.org/learn/step/8745">Сomputational thinking</a></b></li>
-
 <li><b><a href="https://hyperskill.org/learn/step/5984">Recursion basics</a></b></li>
 <a href="https://www.youtube.com/watch?v=NOaSY5pJmyc">Timofey Khiryanov lecture on recursion</a></br>
-<a href="https://www.youtube.com/watch?v=W2skCjIgVKE">Timur Shemsedinov lecture on recursion</a></br></br>
+<a href="https://www.youtube.com/watch?v=W2skCjIgVKE">Timur Shemsedinov lecture on recursion</a></br>
+
+<li><b><a href="https://hyperskill.org/learn/step/8742">Intro to computational thinking</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/8745">Components of computational thinking</a></b></li>
 
 <li><b><a href="https://hyperskill.org/learn/step/3614">Introduction to OOP</a></b></li>
 <a href="https://www.youtube.com/watch?v=r4ReQlVtfgQ&list=PLHhi8ymDMrQZ5bHGEftKvqdScBhtMUGke">Timur Shemsedinov lecture on OOP</a></br>
 <a href="https://www.youtube.com/watch?v=9GdtWiovvIQ">Sergey Nemchinsky lecture on OOP</a></br>
 
-<li><b><a href="https://hyperskill.org/learn/step/9640">Interfaces</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/9844">Inheritance</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/9640">Interfaces</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/10027">Polymorphism</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/8519">Encapsulation</a></b></li></br>
 
-<li><b><a href="https://hyperskill.org/learn/step/7899">Unicode</a></b></li></br>
-<li><b><a href="https://hyperskill.org/learn/step/6854">JSON</a></b></li></br>
 <li><b><a href="https://hyperskill.org/learn/step/13025">Files</a></b></li></br>
 <li><b><a href="https://hyperskill.org/learn/step/19467">Date and time standards</a></b></li></br>
 
@@ -37,6 +35,11 @@
 <li><b><a href="https://hyperskill.org/learn/step/18003">Computer Memory</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/18049">Components of computer memory</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/21577">Stack and heap memory</a></b></li>
+
+<h4>Software construction</h4>
+<li><b><a href="https://hyperskill.org/learn/step/3611">The concept of patterns</a></b></li>
+24.07.23|<br>
+<a href="https://onedrive.live.com/edit.aspx?resid=8F1F55C399D6FCF6!5106&app=Word&wdnd=1&wdPreviousSession=4e41e02f%2D380a%2D4021%2D9457%2D5ac5a904f5f0&wdNewAndOpenCt=1690185612919&wdOrigin=wacFileNew&wdPreviousCorrelation=18133792%2Ded87%2D4ee2%2D98b1%2Dcf88dc9a3cfc&wdTpl=blank">Конспект</a>
 
 <h4>Software distribution</h4>
 <li><b><a href="https://hyperskill.org/learn/step/8504">Libraries</a></b></li>
@@ -51,20 +54,18 @@
 <li><b><a href="https://hyperskill.org/learn/step/14368">Debugging overview</a></b></li>
 <li><b><a href="https://hyperskill.org/knowledge-map/516">Self-documenting code</a></b></li>
 
+<h4>Software architecture</h4>
+<li><b><a href="https://hyperskill.org/learn/step/15368">Introduction to software architecture</a></b></li>
+
 <h4>Introduction to Design Principles and SOLID</h4>
 <li><b><a href="https://hyperskill.org/learn/step/8956">Design principles</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/8963">Single Responsibility Principle(SRP)</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/10089">Interface Segregation Principle(ISP)</a></b></li>
 
-<h4>Software architecture</h4>
-<li><b><a href="https://hyperskill.org/learn/step/15368">Introduction to software architecture</a></b></li>
-
 <h4>Design patterns</h4>
 <li><b><a href="https://hyperskill.org/learn/step/16251">Introduction to creational patterns</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/16469">Singleton</a></b></li>
-<li><b><a href="https://hyperskill.org/learn/step/3611">The concept of patterns</a></b></li>
-24.07.23|<br>
-<a href="https://onedrive.live.com/edit.aspx?resid=8F1F55C399D6FCF6!5106&app=Word&wdnd=1&wdPreviousSession=4e41e02f%2D380a%2D4021%2D9457%2D5ac5a904f5f0&wdNewAndOpenCt=1690185612919&wdOrigin=wacFileNew&wdPreviousCorrelation=18133792%2Ded87%2D4ee2%2D98b1%2Dcf88dc9a3cfc&wdTpl=blank">Конспект</a>
+
 
 <h4>Regular expressions</h4>
 <li><b><a href="https://hyperskill.org/learn/step/7580">Regexps basics</a></b></li>
