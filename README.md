@@ -63,6 +63,8 @@
 <li><b><a href="https://hyperskill.org/learn/step/16251">Introduction to creational patterns</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/16469">Singleton</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/3611">The concept of patterns</a></b></li>
+24.07.23|<br>
+<a href="https://onedrive.live.com/edit.aspx?resid=8F1F55C399D6FCF6!5106&app=Word&wdnd=1&wdPreviousSession=4e41e02f%2D380a%2D4021%2D9457%2D5ac5a904f5f0&wdNewAndOpenCt=1690185612919&wdOrigin=wacFileNew&wdPreviousCorrelation=18133792%2Ded87%2D4ee2%2D98b1%2Dcf88dc9a3cfc&wdTpl=blank">Конспект</a>
 
 <h4>Regular expressions</h4>
 <li><b><a href="https://hyperskill.org/learn/step/7580">Regexps basics</a></b></li>
