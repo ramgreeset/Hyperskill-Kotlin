@@ -98,4 +98,6 @@
 <li><b><a href="https://hyperskill.org/learn/step/4445">Standard input with Java Scanner</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/11224">Reading data with a readln</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/21438">String formatting</a></b></li>
+25.07.23|<br>
+<a href="https://onedrive.live.com/edit.aspx?resid=8F1F55C399D6FCF6!5108&app=Word&wdnd=1&wdPreviousSession=1eec1b2b-feba-4565-ac0a-460859a2c64a&wdNewAndOpenCt=1690286276915&wdOrigin=wacFileNew&wdPreviousCorrelation=428310e1-73a8-4916-99a8-11b0aa04164a&wdTpl=blank">Конспект</a>
 
