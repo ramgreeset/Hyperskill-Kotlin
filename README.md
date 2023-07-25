@@ -93,8 +93,7 @@
 <h2>Kotlin</h2>
 
 <li><b><a href="https://hyperskill.org/learn/step/4419">Coding style conventions</a></b></li>
-<li><b><a href="https://hyperskill.org/learn/step/4389">Naming variables</a></b></li></br>
-
+<li><b><a href="https://hyperskill.org/learn/step/4389">Naming variables</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4425">Standard output</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4445">Standard input with Java Scanner</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/11224">Reading data with a readln</a></b></li>
