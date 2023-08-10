@@ -16,6 +16,8 @@
 <li><b><a href="https://hyperskill.org/learn/step/7899">Unicode</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/6854">JSON</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/19467">Date and time standards</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/9332">Synchronous, asynchronous, parallel</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/9420">Processes and threads</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/9704">Introduction to Operating systems</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/13025">Files</a></b></li>
 
