@@ -65,7 +65,5 @@
 <li><b><a href="https://hyperskill.org/learn/step/4445">Standard input with Java Scanner</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/11224">Reading data with a readln</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/21438">String formatting</a></b> | 25.07.23 <a href="https://onedrive.live.com/edit.aspx?resid=8F1F55C399D6FCF6!5108&app=Word&wdnd=1&wdPreviousSession=1eec1b2b-feba-4565-ac0a-460859a2c64a&wdNewAndOpenCt=1690286276915&wdOrigin=wacFileNew&wdPreviousCorrelation=428310e1-73a8-4916-99a8-11b0aa04164a&wdTpl=blank">Конспект</a></li>
-
-<h4>Function</h4>
 <li><b><a href="https://hyperskill.org/learn/step/4575">Invoking functions</a></b> | 25.07.23 <a href="https://onedrive.live.com/edit.aspx?resid=8F1F55C399D6FCF6!5115&app=Word&wdnd=1&wdPreviousSession=910afdb4%2Dd1cc%2D4407%2Db5bb%2Daa7865e1903d&wdNewAndOpenCt=1690465270176&wdOrigin=wacFileNew&wdPreviousCorrelation=6998a2b0%2D0c0c%2D465a%2D91e2%2D09d29014f363&wdTpl=blank">Конспект</a></li>
 
