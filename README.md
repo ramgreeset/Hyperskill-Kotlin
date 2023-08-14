@@ -74,6 +74,7 @@
 <li><b><a href="https://hyperskill.org/learn/step/4672">Type conversion</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/9506">Type of the numeric expression</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/20495">Nullable and non-nullable types</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/4633">Ranges</a></b></li>
 
 
 
