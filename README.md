@@ -76,6 +76,8 @@
 <li><b><a href="https://hyperskill.org/learn/step/20495">Nullable and non-nullable types</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4633">Ranges</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/9689">Type system</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/12553">String basics</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/4547">String templates</a></b></li>
 
 
 
