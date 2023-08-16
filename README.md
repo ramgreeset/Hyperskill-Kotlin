@@ -78,6 +78,9 @@
 <li><b><a href="https://hyperskill.org/learn/step/9689">Type system</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/12553">String basics</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4547">String templates</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/12561">Working with strings</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/8535">Getting substrings</a></b></li>
+
 
 
 
