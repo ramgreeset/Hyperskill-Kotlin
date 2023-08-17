@@ -88,4 +88,8 @@
 <li><b><a href="https://hyperskill.org/learn/step/4575">Invoking functions</a></b> | 25.07.23 <a href="https://onedrive.live.com/edit.aspx?resid=8F1F55C399D6FCF6!5115&app=Word&wdnd=1&wdPreviousSession=910afdb4%2Dd1cc%2D4407%2Db5bb%2Daa7865e1903d&wdNewAndOpenCt=1690465270176&wdOrigin=wacFileNew&wdPreviousCorrelation=6998a2b0%2D0c0c%2D465a%2D91e2%2D09d29014f363&wdTpl=blank">Конспект</a></li>
 <li><b><a href="https://hyperskill.org/learn/step/4580">Declaring functions</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/12668">Functional decomposition</a></b></li>
-<li><b><a href="https://hyperskill.org/learn/step/11236">Equality</a></b></li>
+
+<li><b><a href="https://hyperskill.org/learn/step/4625">If expression</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/4631">When expression</a></b></li>
+
+
