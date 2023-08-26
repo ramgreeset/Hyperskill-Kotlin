@@ -90,6 +90,7 @@
 <li><b><a href="https://hyperskill.org/learn/step/12668">Functional decomposition</a></b></li>
 
 <li><b><a href="https://hyperskill.org/learn/step/4625">If expression</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/4659">While loops</a></b> | 26.08.23 <a href="https://onedrive.live.com/edit.aspx?resid=8F1F55C399D6FCF6!5144&ithint=file%2cdocx">Конспект</a></li>
 <li><b><a href="https://hyperskill.org/learn/step/4631">When expression</a></b></li>
 
 <li><b><a href="https://hyperskill.org/learn/step/4515">Boolean and logical operations</a></b></li>
