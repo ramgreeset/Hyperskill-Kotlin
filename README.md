@@ -89,6 +89,8 @@
 <li><b><a href="https://hyperskill.org/learn/step/4580">Declaring functions</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/12668">Functional decomposition</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4637">Default arguments</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/4640">Named arguments</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/17116">Scopes</a></b></li>
 
 <li><b><a href="https://hyperskill.org/learn/step/4625">if expression</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4631">When expression</a></b></li>
