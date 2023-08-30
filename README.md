@@ -92,12 +92,14 @@
 <li><b><a href="https://hyperskill.org/learn/step/4640">Named arguments</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/17116">Scopes</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/10484">The main() function</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/11550">Call stack</a></b></li>
 
 <li><b><a href="https://hyperskill.org/learn/step/4625">if expression</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4631">When expression</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4652">For loop and ranges</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4643">Repeating blocks</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4659">While loops</a></b> | 26.08.23 <a href="https://onedrive.live.com/edit.aspx?resid=8F1F55C399D6FCF6!5144&ithint=file%2cdocx">Конспект</a></li>
+<li><b><a href="https://hyperskill.org/learn/step/6165">Jumps and returns</a></b>
 
 <li><b><a href="https://hyperskill.org/learn/step/4515">Boolean and logical operations</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4472">Arithmetic operations</a></b></li>
