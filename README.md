@@ -94,6 +94,7 @@
 <li><b><a href="https://hyperskill.org/learn/step/10484">The main() function</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/11550">Call stack</a></b></li>
 
+<h6>Control structures</h6>
 <li><b><a href="https://hyperskill.org/learn/step/4625">if expression</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4631">When expression</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4652">For loop and ranges</a></b></li>
@@ -107,5 +108,9 @@
 <li><b><a href="https://hyperskill.org/learn/step/4680">Characters</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4488">Integers in action</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/4502">Floating-point types</a></b></li>
+
+<h6>How to work with exceptions</h6>
+<li><b><a href="https://hyperskill.org/learn/step/7243">What is an exception</a></b></li>
+
 
 
