@@ -115,6 +115,8 @@
 <h6>List</h6>
 <li><b><a href="https://hyperskill.org/learn/step/14879">Introduction to MutableList</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/14902">Work with MutableLists</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/15022">For loop and lists</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/15127">Multi-dimensional list</a></b></li>
 
 
 
