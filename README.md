@@ -112,5 +112,10 @@
 <h6>How to work with exceptions</h6>
 <li><b><a href="https://hyperskill.org/learn/step/7243">What is an exception</a></b></li>
 
+<h6>List</h6>
+<li><b><a href="https://hyperskill.org/learn/step/14879">Introduction to MutableList</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/14902">Work with MutableLists</a></b></li>
+
+
 
 
