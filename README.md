@@ -118,6 +118,11 @@
 <li><b><a href="https://hyperskill.org/learn/step/15022">For loop and lists</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/15127">Multi-dimensional list</a></b></li>
 
+<h6>List</h6>
+<li><b><a href="https://hyperskill.org/learn/step/10390">Introduction to collections</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/10730">List</a></b></li>
+
+
 
 
 
