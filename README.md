@@ -121,6 +121,8 @@
 <h6>List</h6>
 <li><b><a href="https://hyperskill.org/learn/step/10390">Introduction to collections</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/10730">List</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/11032">Mutable List</a></b></li>
+
 
 
 
