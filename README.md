@@ -113,13 +113,13 @@
 <li><b><a href="https://hyperskill.org/learn/step/7243">What is an exception</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/7601">Taming exceptions</a></b></li>
 
-<h6>List</h6>
+<h6>Lists</h6>
 <li><b><a href="https://hyperskill.org/learn/step/14879">Introduction to MutableList</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/14902">Work with MutableLists</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/15022">For loop and lists</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/15127">Multi-dimensional list</a></b></li>
 
-<h6>List</h6>
+<h6>Collections</h6>
 <li><b><a href="https://hyperskill.org/learn/step/10390">Introduction to collections</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/10730">List</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/11032">Mutable List</a></b></li>
@@ -127,6 +127,7 @@
 <li><b><a href="https://hyperskill.org/learn/step/12659">Map</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/15876">Mutable Map</a></b></li>
 <li><b><a href="https://hyperskill.org/learn/step/11897">Mutable Set</a></b></li>
+<li><b><a href="https://hyperskill.org/learn/step/20794">Iterators</a></b></li>
 
 
 
